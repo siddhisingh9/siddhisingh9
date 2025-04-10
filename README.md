@@ -1,6 +1,6 @@
 ## Hi, I'm Siddhi 👋
 
-🎓 Student at IIT Bhilai 28' <br/>
+🎓 Student at IIT Bhilai '28 <br/>
 📚 I’m currently learning Web Development, and DSA <br/>
 
 
