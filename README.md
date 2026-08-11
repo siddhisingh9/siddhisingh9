@@ -22,11 +22,11 @@
 
 ## About
 
-I'm Siddhi — a third-year Data Science & AI student at IIT Bhilai who cares less about clean notebooks and more about things that actually ship. I work across the AI/ML stack, from research and modeling to full, deployed systems — multi-agent architectures, RAG pipelines, and the backend plumbing that makes them run reliably outside a demo.
+I'm Siddhi - a third-year Data Science & AI student at IIT Bhilai who cares less about clean notebooks and more about things that actually ship. I work across the AI/ML stack, from research and modeling to full, deployed systems - multi-agent architectures, RAG pipelines, and the backend plumbing that makes them run reliably outside a demo.
 
-Some of what I've built: **HostelDesk**, a multi-agent RAG pipeline with FastAPI and Supabase; agentic chatbots powered by LLM APIs; and forecasting systems trained across dozens of real-world datasets. I like projects that pair technical depth with a bit of personality — good architecture *and* good taste.
+Some of what I've built: **HostelDesk**, a multi-agent RAG pipeline with FastAPI and Supabase; agentic chatbots powered by LLM APIs; and forecasting systems trained across dozens of real-world datasets. I like projects that pair technical depth with a bit of personality - good architecture *and* good taste.
 
-Outside of that, I lead UI/UX at **DesignX** and mentor the next batch of AI/ML builders at **OpenLake** — so I think as much about how something looks and feels as how well it runs under the hood. Currently deep in internship season, chasing both SWE and Data/AI-ML roles.
+Outside of that, I lead UI/UX at **DesignX** and mentor the next batch of AI/ML builders at **OpenLake** - so I think as much about how something looks and feels as how well it runs under the hood. Currently deep in internship season, chasing both SWE and Data/AI-ML roles.
 
 <div align="center">
 
