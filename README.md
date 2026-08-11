@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&pause=1200&color=DAB56B&background=130A18&center=true&vCenter=true&width=650&lines=Siddhi+Singh+-+Exploring.+Solving.+Creating.;B.Tech+%C2%B7+Data+Science+%26+AI+%C2%B7+IIT+Bhilai;Building+with+LLMs%2C+RAG+%26+multi-agent+systems;Ranked+Top+200+of+27%2C000%2B+at+Flipkart;250%2B+problems+solved+on+LeetCode" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&pause=1200&color=DAB56B&background=130A18&center=true&vCenter=true&width=650&lines=Siddhi+Singh" alt="typing banner" />
 
 <img src="https://img.shields.io/badge/status-open%20to%20internships-DAB56B?style=for-the-badge&labelColor=130A18" />
 <img src="https://img.shields.io/badge/B.Tech-DSAI%20%C2%B7%20IIT%20Bhilai-B594E3?style=for-the-badge&labelColor=130A18" />
@@ -22,9 +22,11 @@
 
 ## About
 
-I'm Siddhi — a fifth-semester Data Science & AI student at IIT Bhilai, working across the AI/ML stack from research to real, deployed systems. I like building things end-to-end, backed by a strong grip on data structures & algorithms.
+I'm Siddhi — a third-year Data Science & AI student at IIT Bhilai who cares less about clean notebooks and more about things that actually ship. I work across the AI/ML stack, from research and modeling to full, deployed systems — multi-agent architectures, RAG pipelines, and the backend plumbing that makes them run reliably outside a demo.
 
-Outside coursework, I'm usually mentoring the next batch of builders in AI/ML at **OpenLake**, leading UI/UX at **DesignX**, or deep in a terminal chasing a bug at 1am.
+Some of what I've built: **HostelDesk**, a multi-agent RAG pipeline with FastAPI and Supabase; agentic chatbots powered by LLM APIs; and forecasting systems trained across dozens of real-world datasets. I like projects that pair technical depth with a bit of personality — good architecture *and* good taste.
+
+Outside of that, I lead UI/UX at **DesignX** and mentor the next batch of AI/ML builders at **OpenLake** — so I think as much about how something looks and feels as how well it runs under the hood. Currently deep in internship season, chasing both SWE and Data/AI-ML roles.
 
 <div align="center">
 
@@ -82,17 +84,6 @@ Outside coursework, I'm usually mentoring the next batch of builders in AI/ML at
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-DAB56B?style=flat-square&labelColor=130A18)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-DAB56B?style=flat-square&labelColor=130A18)
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhisingh9&show_icons=true&hide_border=true&bg_color=130A18&title_color=DAB56B&icon_color=B594E3&text_color=C4B2CC" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhisingh9&hide_border=true&background=130A18&ring=B594E3&fire=DAB56B&currStreakLabel=E693AC&sideLabels=C4B2CC&currStreakNum=F7EFF6&sideNums=F7EFF6&dates=8B7692" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhisingh9&layout=compact&hide_border=true&bg_color=130A18&title_color=DAB56B&text_color=C4B2CC" />
-
-</div>
-
 ## Let's talk
 
 <div align="center">
@@ -101,9 +92,5 @@ Outside coursework, I'm usually mentoring the next batch of builders in AI/ML at
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-B594E3?style=for-the-badge&logo=linkedin&logoColor=130A18&labelColor=130A18)](https://www.linkedin.com/in/siddhi-singh-33170323a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-E693AC?style=for-the-badge&logo=github&logoColor=130A18&labelColor=130A18)](https://github.com/siddhisingh9)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-DAB56B?style=for-the-badge&logo=leetcode&logoColor=130A18&labelColor=130A18)](https://leetcode.com/u/siddhi_singh9/)
-
-<br>
-
-<sub>Fuelled by chai, 1am debugging sessions, and a mild refusal to ship anything with default fonts. ☕</sub>
 
 </div>
