@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&pause=1200&color=DAB56B&background=130A18&center=true&vCenter=true&width=650&lines=Siddhi+Singh" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&pause=1200&color=DAB56B&background=130A18&center=true&vCenter=true&width=650&lines=Siddhi+Singh" alt="typing banner" />
 
 <img src="https://img.shields.io/badge/status-open%20to%20internships-DAB56B?style=for-the-badge&labelColor=130A18" />
 <img src="https://img.shields.io/badge/B.Tech-DSAI%20%C2%B7%20IIT%20Bhilai-B594E3?style=for-the-badge&labelColor=130A18" />
