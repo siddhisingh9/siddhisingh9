@@ -53,23 +53,11 @@ I'm **Siddhi**, a third-year **Data Science & AI** student at **IIT Bhilai**. Mo
 
 <br/>
 
-<img src="./assets/h-achievements.svg" width="100%" alt="Achievements — Selected, out of thousands"/>
-
-<img src="./assets/achievements.svg" width="100%" alt="HSBC incoming Technology Intern (Summer 2027) · Flipkart mentee, Top 200 of 27,000+ · Table Tennis: Coordinator '26, Best Emerging Player '25, Inter IIT Sports Meet '25"/>
-
-<br/><br/>
-
-<img src="./assets/h-activities.svg" width="100%" alt="Activities — Leadership & involvement"/>
-
-<img src="./assets/activities.svg" width="100%" alt="Mentor at OpenLake · UI/UX Head at DesignX · Core Member at GDG · Mentor at Student Mentorship Program"/>
-
-<br/><br/>
-
 <img src="./assets/h-stats.svg" width="100%" alt="GitHub — Commits, streaks & snakes"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhisingh9&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=130A18&title_color=E693AC&text_color=C4B2CC&icon_color=DAB56B&ring_color=B594E3&border_color=34213E&border_radius=16" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhisingh9&layout=compact&langs_count=8&bg_color=130A18&title_color=E693AC&text_color=C4B2CC&border_color=34213E&border_radius=16" alt="Top languages"/>
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -77,7 +65,7 @@ I'm **Siddhi**, a third-year **Data Science & AI** student at **IIT Bhilai**. Mo
   <img height="165" src="https://leetcard.jacoblin.cool/siddhi_singh9?theme=dark&font=Space%20Mono&border=0&radius=16" alt="LeetCode stats"/>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhisingh9&bg_color=130A18&color=C4B2CC&line=E693AC&point=DAB56B&area=true&area_color=B594E3&title_color=F7EFF6&hide_border=false&border_color=34213E&radius=16" alt="Contribution activity graph"/>
+<img width="100%" src="./profile/activity.svg" alt="Contribution activity over the last 30 days"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhisingh9/siddhisingh9/output/github-snake-dark.svg"/>
