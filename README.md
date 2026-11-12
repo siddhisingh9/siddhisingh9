@@ -1,101 +1,100 @@
-<div align="center">
+<!-- ✦ Siddhi Singh · github.com/siddhisingh9 ✦ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&pause=1200&color=DAB56B&background=130A18&center=true&vCenter=true&width=650&lines=Siddhi+Singh" alt="typing banner" />
+<a href="https://siddhisingh9.github.io/">
+  <img src="./assets/hero.svg" width="100%" alt="Siddhi Singh. I build software, AI, and the interfaces in between."/>
+</a>
 
-<img src="https://img.shields.io/badge/status-open%20to%20internships-DAB56B?style=for-the-badge&labelColor=130A18" />
-<img src="https://img.shields.io/badge/B.Tech-DSAI%20%C2%B7%20IIT%20Bhilai-B594E3?style=for-the-badge&labelColor=130A18" />
+<p align="center">
+  <a href="https://siddhisingh9.github.io/"><img src="https://img.shields.io/badge/Portfolio-siddhisingh9.github.io-B594E3?style=for-the-badge&labelColor=1F1228&logo=googlechrome&logoColor=DAB56B" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/siddhi-singh-33170323a/"><img src="https://img.shields.io/badge/LinkedIn-Siddhi_Singh-E693AC?style=for-the-badge&labelColor=1F1228&logo=linkedin&logoColor=E693AC" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/siddhi_singh9/"><img src="https://img.shields.io/badge/LeetCode-250%2B_solved-DAB56B?style=for-the-badge&labelColor=1F1228&logo=leetcode&logoColor=DAB56B" alt="LeetCode"/></a>
+  <a href="mailto:siddhiwrite@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-B594E3?style=for-the-badge&labelColor=1F1228&logo=gmail&logoColor=B594E3" alt="Email"/></a>
+</p>
 
-<br>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-siddhisingh9.github.io-E693AC?style=for-the-badge&logo=googlechrome&logoColor=130A18&labelColor=130A18)](https://siddhisingh9.github.io)
+<img src="./assets/h-about.svg" width="100%" alt="About — The short version"/>
 
-</div>
+<img align="right" width="44%" src="./assets/profile-card.svg" alt="~/profile.json"/>
 
-<br>
+I'm **Siddhi**, a third-year **Data Science & AI** student at **IIT Bhilai**. Most of my work sits where ML meets engineering: training models, then turning them into services people can actually use.
 
-```json
-{
-  "name": "Siddhi Singh",
-  "role": "B.Tech · Data Science & AI · 3rd Year",
-  "institute": "IIT Bhilai",
-  "location": "Mumbai, India",
-  "focus": ["AI/ML systems", "agentic pipelines", "DSA"],
-  "status": "open to internships"
-}
-```
+- 🔭 &nbsp;Working on **missing-modality multimodal learning**: retrieval-augmented prompts + mixture-of-experts
+- 💼 &nbsp;Incoming **Technology Intern at HSBC**, Summer 2027
+- 🌱 &nbsp;**Flipkart mentee**, Top 200 of 27,000+
+- 🧑‍🏫 &nbsp;Mentor (AI/ML) at **OpenLake**, IIT Bhilai's open-source society
+- 🎨 &nbsp;UI/UX Head at **DesignX**, so I care how things look as much as how they work
+- 🏓 &nbsp;Off the keyboard: table tennis, sitcoms, and the eternal hunt for good shawarma
 
-## About
+<br clear="right"/>
+<br/>
 
-I'm Siddhi — a third-year Data Science & AI student at IIT Bhilai who cares less about clean notebooks and more about things that actually ship. I work across the AI/ML stack, from research and modeling to full, deployed systems — multi-agent architectures, RAG pipelines, and the backend plumbing that makes them run reliably outside a demo.
+<img src="./assets/h-projects.svg" width="100%" alt="Projects — Things I've shipped"/>
 
-Some of what I've built: **HostelDesk**, a multi-agent RAG pipeline with FastAPI and Supabase; agentic chatbots powered by LLM APIs; and forecasting systems trained across dozens of real-world datasets. I like projects that pair technical depth with a bit of personality — good architecture *and* good taste.
+<!-- Swap each href below for the project's own repo link -->
+<a href="https://github.com/siddhisingh9?tab=repositories">
+  <img src="./assets/project-mplmm.svg" width="100%" alt="Multimodal Sentiment & Emotion Analysis with Missing Modalities — RAGPrompt + MoE on MPLMM, up to +4.91 weighted F1 across 4 benchmarks"/>
+</a>
 
-Outside of that, I lead UI/UX at **DesignX** and mentor the next batch of AI/ML builders at **OpenLake** — so I think as much about how something looks and feels as how well it runs under the hood. Currently deep in internship season, chasing both SWE and Data/AI-ML roles.
+<p>
+  <a href="https://github.com/siddhisingh9?tab=repositories"><img src="./assets/project-hosteldesk.svg" width="49.4%" alt="HostelDesk — AI-powered complaint management with LLM triage and duplicate detection"/></a>
+  <a href="https://github.com/siddhisingh9?tab=repositories"><img src="./assets/project-cloud.svg" width="49.4%" alt="Cloud Task Failure Prediction — Random Forest, 93% accuracy, FastAPI + Streamlit + Redis"/></a>
+</p>
 
-<div align="center">
+<p align="right"><a href="https://github.com/siddhisingh9?tab=repositories"><code>more on GitHub →</code></a></p>
 
-| CGPA | Flipkart | Mentor/Lead Roles | LeetCode |
-|:---:|:---:|:---:|:---:|
-| 8.71 / 10 | Top 200 of 27,000+ | 4 | 250+ solved |
+<img src="./assets/h-skills.svg" width="100%" alt="Skills — What I build with"/>
 
-</div>
+<img src="./assets/skills.svg" width="100%" alt="Languages: Python, C/C++, SQL, JavaScript, HTML/CSS. AI/ML: LLMs, LangChain, LangGraph, multi-agent systems, RAG, prompt engineering, NLP, transformers, multimodal learning, time-series forecasting, EDA. Libraries: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, FastAPI, NLTK, BeautifulSoup, Selenium. Tools: Git, Docker, Google Cloud, Redis, Supabase, Hugging Face, Streamlit, Render. Core CS: DSA, DBMS, OS, COA."/>
 
-## Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,pytorch,sklearn,fastapi,react,vite,tailwind,docker,gcp,redis,supabase,git,figma&perline=17" alt="tech icons"/>
+</p>
 
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/-Python-B594E3?style=flat-square&logo=python&logoColor=130A18)
-![C/C++](https://img.shields.io/badge/-C%20%2F%20C%2B%2B-B594E3?style=flat-square&logo=cplusplus&logoColor=130A18)
-![SQL](https://img.shields.io/badge/-SQL-B594E3?style=flat-square&logo=postgresql&logoColor=130A18)
-![JavaScript](https://img.shields.io/badge/-JavaScript-B594E3?style=flat-square&logo=javascript&logoColor=130A18)
-![HTML/CSS](https://img.shields.io/badge/-HTML%20%2F%20CSS-B594E3?style=flat-square&logo=html5&logoColor=130A18)
+<br/>
 
-**Core CS**
-<br>
-![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-DAB56B?style=flat-square&labelColor=130A18)
-![DBMS](https://img.shields.io/badge/-DBMS-DAB56B?style=flat-square&labelColor=130A18)
-![OS](https://img.shields.io/badge/-OS-DAB56B?style=flat-square&labelColor=130A18)
-![COA](https://img.shields.io/badge/-Computer%20Architecture-DAB56B?style=flat-square&labelColor=130A18)
+<img src="./assets/h-achievements.svg" width="100%" alt="Achievements — Selected, out of thousands"/>
 
-**AI / ML**
-<br>
-![LLMs](https://img.shields.io/badge/-LLMs-E693AC?style=flat-square&labelColor=130A18)
-![LangChain](https://img.shields.io/badge/-LangChain-E693AC?style=flat-square&labelColor=130A18)
-![LangGraph](https://img.shields.io/badge/-LangGraph-E693AC?style=flat-square&labelColor=130A18)
-![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-E693AC?style=flat-square&labelColor=130A18)
-![RAG](https://img.shields.io/badge/-RAG-E693AC?style=flat-square&labelColor=130A18)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-E693AC?style=flat-square&labelColor=130A18)
-![NLP](https://img.shields.io/badge/-NLP-E693AC?style=flat-square&labelColor=130A18)
-![Transformers](https://img.shields.io/badge/-Transformers-E693AC?style=flat-square&labelColor=130A18)
+<img src="./assets/achievements.svg" width="100%" alt="HSBC incoming Technology Intern (Summer 2027) · Flipkart mentee, Top 200 of 27,000+ · Table Tennis: Coordinator '26, Best Emerging Player '25, Inter IIT Sports Meet '25"/>
 
-**Developer Tools**
-<br>
-![Git](https://img.shields.io/badge/-Git-B594E3?style=flat-square&logo=git&logoColor=130A18)
-![GitHub](https://img.shields.io/badge/-GitHub-B594E3?style=flat-square&logo=github&logoColor=130A18)
-![Docker](https://img.shields.io/badge/-Docker-B594E3?style=flat-square&logo=docker&logoColor=130A18)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-B594E3?style=flat-square&logo=googlecloud&logoColor=130A18)
-![Redis](https://img.shields.io/badge/-Redis-B594E3?style=flat-square&logo=redis&logoColor=130A18)
-![Streamlit](https://img.shields.io/badge/-Streamlit-B594E3?style=flat-square&logo=streamlit&logoColor=130A18)
-![Supabase](https://img.shields.io/badge/-Supabase-B594E3?style=flat-square&logo=supabase&logoColor=130A18)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-B594E3?style=flat-square&logo=huggingface&logoColor=130A18)
+<br/><br/>
 
-**Libraries**
-<br>
-![NumPy](https://img.shields.io/badge/-NumPy-DAB56B?style=flat-square&logo=numpy&logoColor=130A18)
-![Pandas](https://img.shields.io/badge/-Pandas-DAB56B?style=flat-square&logo=pandas&logoColor=130A18)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-DAB56B?style=flat-square&logo=scikitlearn&logoColor=130A18)
-![FastAPI](https://img.shields.io/badge/-FastAPI-DAB56B?style=flat-square&logo=fastapi&logoColor=130A18)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-DAB56B?style=flat-square&labelColor=130A18)
-![Seaborn](https://img.shields.io/badge/-Seaborn-DAB56B?style=flat-square&labelColor=130A18)
+<img src="./assets/h-activities.svg" width="100%" alt="Activities — Leadership & involvement"/>
 
-## Let's talk
+<img src="./assets/activities.svg" width="100%" alt="Mentor at OpenLake · UI/UX Head at DesignX · Core Member at GDG · Mentor at Student Mentorship Program"/>
 
-<div align="center">
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E693AC?style=for-the-badge&logo=googlechrome&logoColor=130A18&labelColor=130A18)](https://siddhisingh9.github.io)
-[![Email](https://img.shields.io/badge/-siddhiwrite%40gmail.com-DAB56B?style=for-the-badge&logo=gmail&logoColor=130A18&labelColor=130A18)](mailto:siddhiwrite@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-B594E3?style=for-the-badge&logo=linkedin&logoColor=130A18&labelColor=130A18)](https://www.linkedin.com/in/siddhi-singh-33170323a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-E693AC?style=for-the-badge&logo=github&logoColor=130A18&labelColor=130A18)](https://github.com/siddhisingh9)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-DAB56B?style=for-the-badge&logo=leetcode&logoColor=130A18&labelColor=130A18)](https://leetcode.com/u/siddhi_singh9/)
+<img src="./assets/h-stats.svg" width="100%" alt="GitHub — Commits, streaks & snakes"/>
 
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddhisingh9&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=130A18&title_color=E693AC&text_color=C4B2CC&icon_color=DAB56B&ring_color=B594E3&border_color=34213E&border_radius=16" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhisingh9&layout=compact&langs_count=8&bg_color=130A18&title_color=E693AC&text_color=C4B2CC&border_color=34213E&border_radius=16" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=siddhisingh9&background=130A18&border=34213E&stroke=34213E&ring=B594E3&fire=E693AC&currStreakNum=F7EFF6&sideNums=F7EFF6&currStreakLabel=DAB56B&sideLabels=C4B2CC&dates=8B7692&border_radius=16" alt="GitHub streak"/>
+  <img height="165" src="https://leetcard.jacoblin.cool/siddhi_singh9?theme=dark&font=Space%20Mono&border=0&radius=16" alt="LeetCode stats"/>
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhisingh9&bg_color=130A18&color=C4B2CC&line=E693AC&point=DAB56B&area=true&area_color=B594E3&title_color=F7EFF6&hide_border=false&border_color=34213E&radius=16" alt="Contribution activity graph"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhisingh9/siddhisingh9/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhisingh9/siddhisingh9/output/github-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/siddhisingh9/siddhisingh9/output/github-snake-dark.svg" alt="Snake eating my contribution graph"/>
+</picture>
+
+<br/><br/>
+
+<img src="./assets/h-contact.svg" width="100%" alt="Contact — Let's talk"/>
+
+Open to mentorship conversations, collaborations on AI/ML projects, or just a chat about what I'm building. My inbox is the fastest way to reach me: **[siddhiwrite@gmail.com](mailto:siddhiwrite@gmail.com)**
+
+<a href="https://siddhisingh9.github.io/">
+  <img src="./assets/footer.svg" width="100%" alt="Open to internships, collaborations, and shawarma recommendations."/>
+</a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhisingh9&label=profile%20views&color=B594E3&style=flat-square" alt="profile views"/>
+</p>
