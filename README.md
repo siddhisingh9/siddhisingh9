@@ -29,20 +29,6 @@ I'm **Siddhi**, a third-year **Data Science & AI** student at **IIT Bhilai**. Mo
 <br clear="right"/>
 <br/>
 
-<img src="./assets/h-projects.svg" width="100%" alt="Projects — Things I've shipped"/>
-
-<!-- Swap each href below for the project's own repo link -->
-<a href="https://github.com/siddhisingh9?tab=repositories">
-  <img src="./assets/project-mplmm.svg" width="100%" alt="Multimodal Sentiment & Emotion Analysis with Missing Modalities — RAGPrompt + MoE on MPLMM, up to +4.91 weighted F1 across 4 benchmarks"/>
-</a>
-
-<p>
-  <a href="https://github.com/siddhisingh9?tab=repositories"><img src="./assets/project-hosteldesk.svg" width="49.4%" alt="HostelDesk — AI-powered complaint management with LLM triage and duplicate detection"/></a>
-  <a href="https://github.com/siddhisingh9?tab=repositories"><img src="./assets/project-cloud.svg" width="49.4%" alt="Cloud Task Failure Prediction — Random Forest, 93% accuracy, FastAPI + Streamlit + Redis"/></a>
-</p>
-
-<p align="right"><a href="https://github.com/siddhisingh9?tab=repositories"><code>more on GitHub →</code></a></p>
-
 <img src="./assets/h-skills.svg" width="100%" alt="Skills — What I build with"/>
 
 <img src="./assets/skills.svg" width="100%" alt="Languages: Python, C/C++, SQL, JavaScript, HTML/CSS. AI/ML: LLMs, LangChain, LangGraph, multi-agent systems, RAG, prompt engineering, NLP, transformers, multimodal learning, time-series forecasting, EDA. Libraries: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, FastAPI, NLTK, BeautifulSoup, Selenium. Tools: Git, Docker, Google Cloud, Redis, Supabase, Hugging Face, Streamlit, Render. Core CS: DSA, DBMS, OS, COA."/>
