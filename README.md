@@ -17,24 +17,25 @@
 
 <img align="right" width="44%" src="./assets/profile-card.svg" alt="~/profile.json"/>
 
-I'm **Siddhi**, a third-year **Data Science & AI** student at **IIT Bhilai**. Most of my work sits where ML meets engineering: training models, then turning them into services people can actually use.
+I'm **Siddhi**, a third-year **Data Science & AI** student at **IIT Bhilai**. Most of my work sits where ML meets engineering: training models, then turning them into services people can actually use. Lately that means **LLMs, RAG and agents**, and building tools that try to break them.
 
-- 🔭 &nbsp;Working on **missing-modality multimodal learning**: retrieval-augmented prompts + mixture-of-experts
+- 🛡️ &nbsp;Just shipped **[RedRAG](https://github.com/siddhisingh9/redrag)**, an automated red-teaming agent for RAG chatbots
+- 🔭 &nbsp;Extended **MPLMM (ACL 2024)** so multimodal sentiment models hold up when text, audio or video is missing
 - 💼 &nbsp;Incoming **Technology Intern at HSBC**, Summer 2027
-- 🌱 &nbsp;**Flipkart mentee**, Top 200 of 27,000+
+- 🌱 &nbsp;**Flipkart mentee**, Top 200 of 27,000+ applicants
 - 🧑‍🏫 &nbsp;Mentor (AI/ML) at **OpenLake**, IIT Bhilai's open-source society
 - 🎨 &nbsp;UI/UX Head at **DesignX**, so I care how things look as much as how they work
-- 🏓 &nbsp;Off the keyboard: table tennis, sitcoms, and the eternal hunt for good shawarma
+- 🏓 &nbsp;Table Tennis Coordinator '26 and Best Emerging Player '25. Also: sitcoms, and the eternal hunt for good shawarma
 
 <br clear="right"/>
 <br/>
 
 <img src="./assets/h-skills.svg" width="100%" alt="Skills — What I build with"/>
 
-<img src="./assets/skills.svg" width="100%" alt="Languages: Python, C/C++, SQL, JavaScript, HTML/CSS. AI/ML: LLMs, LangChain, LangGraph, multi-agent systems, RAG, prompt engineering, NLP, transformers, multimodal learning, time-series forecasting, EDA. Libraries: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, FastAPI, NLTK, BeautifulSoup, Selenium. Tools: Git, Docker, Google Cloud, Redis, Supabase, Hugging Face, Streamlit, Render. Core CS: DSA, DBMS, OS, COA."/>
+<img src="./assets/skills.svg" width="100%" alt="Languages: Python, C/C++, SQL, JavaScript, HTML/CSS. AI/ML: LLMs, RAG, AI agents, LangGraph, LangChain, multi-agent systems, LLM fine-tuning, LLM security and red-teaming, prompt engineering, NLP, transformers, multimodal learning, time-series forecasting. LLM tooling: Hugging Face, Ollama, ChromaDB, vector databases, Model Context Protocol (MCP), OpenTelemetry. Frameworks: PyTorch, Transformers, Scikit-learn, NumPy, Pandas, FastAPI, React, Streamlit, pytest. Dev tools: Git, GitHub Actions, Docker, Google Cloud, Redis, Supabase, Render, Vercel. Core CS: DSA, DBMS, OS, COA."/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,pytorch,sklearn,fastapi,react,vite,tailwind,docker,gcp,redis,supabase,git,figma&perline=17" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,pytorch,sklearn,fastapi,react,vite,tailwind,docker,gcp,redis,supabase,git,githubactions,vercel,figma&perline=19" alt="tech icons"/>
 </p>
 
 <br/>
