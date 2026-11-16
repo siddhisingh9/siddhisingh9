@@ -25,7 +25,6 @@ I'm **Siddhi**, a third-year **Data Science & AI** student at **IIT Bhilai**. Mo
 - 🌱 &nbsp;**Flipkart mentee**, Top 200 of 27,000+ applicants
 - 🧑‍🏫 &nbsp;Mentor (AI/ML) at **OpenLake**, IIT Bhilai's open-source society
 - 🎨 &nbsp;UI/UX Head at **DesignX**, so I care how things look as much as how they work
-- 🏓 &nbsp;Table Tennis Coordinator '26 and Best Emerging Player '25. Also: sitcoms, and the eternal hunt for good shawarma
 
 <br clear="right"/>
 <br/>
